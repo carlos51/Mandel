@@ -103,7 +103,7 @@ function mouseClicked(){
 }*/
 
 function draw(){
-    frameRate(0);
+    frameRate(1);
     a *= alph
     mandel(200, 2*a, a, position)
     //print(a)
