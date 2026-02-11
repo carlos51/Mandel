@@ -1,6 +1,7 @@
 const colorsRed = [];
 const colorsGreen = [];
 const colorsBlue = [];
+console.log("hola")
 
 function mandel(iterations, x_val, y_val, center){
     loadPixels();
